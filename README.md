@@ -1,4 +1,4 @@
-# leaflet-challenge
+#Leaflet.js-challenge
 Technology used: Leaflet.js
 
 Live demo: https://mirfakhrulhassan.github.io/Leaflet-Challenge/
