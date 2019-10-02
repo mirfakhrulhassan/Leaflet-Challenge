@@ -1,7 +1,7 @@
 # leaflet-challenge
 Technology used: Leaflet.js
 
-Live demo: 
+Live demo: https://mirfakhrulhassan.github.io/Leaflet-Challenge/
 
 Summary: United States Geological Survey, or USGS for short is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.The goal of this project is to create a map using Leaflet that plots all of the earthquakes from their data set (geoJson) based on their longitude and latitude.
 
